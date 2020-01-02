@@ -1,0 +1,14 @@
+{"Give me an verview of breast cancer?": [
+    "Cancer begins in cells. Cells are the building blocks that make up all parts of our bodies, including our breasts. Cancer begins when the cells in the breast change and grow into a tumor. If not removed or treated, a breast cancer tumor can spread to other parts of the body and become lethal.",
+    "For the majority of women, breast cancer is not a death sentence. In the U.S., fewer women have been dying from breast cancer since the 1990s. Women whose breast cancer has not spread to other organs in their body like the lungs, liver, or brain, have over a 90% chance of being alive in 5 years. How long each person diagnosed with breast cancer will live and whether she will die from the disease depends on many things, including how much the cancer has spread throughout the body, the woman’s overall health, and more."
+  ],
+  "Tell me about breast cancer staging?": [
+    "Breast cancer is grouped, or classified, into several stages. These stages range from I (one) to IV (four). The stage of your breast cancer depends on the size of your tumor and whether it has spread to other parts of the body. The stage of your breast cancer is usually determined after your surgery. ",
+    "Breast cancer that is Stage I (one) or II (two) is considered early-stage breast cancer. Breast cancer that is Stage III is locally advanced breast cancer. Breast cancer that is Stage IV is advanced cancer that has spread to other parts of the body, such as the liver, lungs, or brain. Stage IV breast cancer is also called metastatic breast cancer. ",
+    "Women with Stage I-III breast cancer have a much higher survival rate than women with Stage IV. Once the cancer has spread to other parts of the body such as the lungs, it can be managed but not cured."
+  ],
+  "Tell me about genetics and breast cancer?": [
+    "The cells in our bodies contain genes. These genes contain instructions for how our bodies should develop and function. Changes to these genes are called mutations and put us at risk for health conditions such as cancer. Sometimes, genetic mutations are passed down from parents to children.",
+    "It is important to keep in mind that for most people, cancer develops by chance. However, for a few women, they may have received mutations in two types of their genes, the BRCA1 and BRCA2 genes. These women have a higher risk of developing breast and ovarian cancer. BRCA1 and BRCA2 are the most common genes for breast cancer. These mutations tend to happen more among women who were under the 50 when they were diagnosed with breast cancer, have a few relatives who have been diagnosed with cancer, or have a family history of ovarian or breast cancer."
+  ]
+}
